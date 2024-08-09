@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+#board {
+    background-image: url("./backgroundboard1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+    
